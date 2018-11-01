@@ -1,2 +1,7 @@
-# hacking-webapps
-Repository for the Intense Introduction to Hacking Web Applications Live Safari Training 
+# Intense Introduction to Hacking Web Applications Live Safari Training
+Repository for the [Intense Introduction to Hacking Web Applications Live Safari Training](https://www.safaribooksonline.com/search/?query=omar%20santos%20Intense&extended_publisher_data=true&highlight=true&is_academic_institution_account=false&source=user&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&formats=live%20online%20training&sort=relevance) by Omar Santos. This repository has several auxiliary files that will be used in the training.
+
+## About this Training
+This course starts with an introduction to modern web applications and then immediately dives into the mapping and discovery phase of testing. In this course, you will learn security penetration testing methodologies and concepts by going over step-by-step examples in real time.
+
+This hands-on training course will use various open source tools. You will learn how to exploit SQL injection, command injection, cross-site scripting (XSS), XML External Entity (XXE), and cross-site request forgery (CSRF). You will also learn how to perform assessments of modern APIs used for mobile and IoT applications. This course includes interactive labs where students can interact with a series of vulnerable web applications in a safe environment. Learn how to craft the exploits used by ethical hackers to perform real-world penetration testing attacks and vulnerabilities.
